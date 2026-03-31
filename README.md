@@ -1,8 +1,8 @@
 # oss-audit — The Open Source Audit (Git)
 
 **Course:** Open Source Software (OSS NGMC)  
-**Student:** PRADEEP N  
-**Registration Number:** 24MIP10033  
+**Student:** NAGAHIMESH VUPPALA  
+**Registration Number:** 24BAI10006  
 **Chosen Software:** Python — Programming Language  
 **License of Chosen Software:** Python Software Foundation License (PSFL)
 
